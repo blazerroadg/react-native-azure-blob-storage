@@ -1,0 +1,33 @@
+{
+  "name": "react-native-azure-blob-storage-manager",
+  "version": "1.0.1",
+  "description": "This package upload assests and file to your azure blob storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blazerroad/react-native-azure-blob-storage.git"
+  },
+  "dependencies": {
+    "crypto-js": "^3.2.0",
+    "react-native-mime-types": "^2.3.0",
+    "react-native-background-upload": "^5.7.0"
+  },
+  "keywords": [
+    "react-native",
+    "azure",
+    "azure blob storage",
+    "upload blob",
+    "upload image",
+    "upload file",
+    "react native"
+  ],
+  "author": "blazerroad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blazerroad/react-native-azure-blob-storage/issues"
+  },
+  "homepage": "https://github.com/blazerroad/react-native-azure-blob-storage#readme"
+}
