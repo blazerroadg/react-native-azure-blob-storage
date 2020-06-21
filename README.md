@@ -31,7 +31,7 @@ please follow each dependensy document :
 Import library
 
 ```javascript
-import { azureblobfetch, initAzureBlob } from './azureblobStorage11/azurblobstorage'
+import { azureblobfetch, initAzureBlob } from 'react-native-azure-blob-storage-manager/azurblobstorage'
 import Upload from 'react-native-background-upload'
 ```
 
